@@ -1,0 +1,21 @@
+{
+  "name": "Reach your favorite places at rocket speed",
+  "description": "Type 'r' plus a website alias in omnibox to open the website easily",
+  "version": "1.0",
+  "background": {
+    "scripts": ["background.js"],
+    "persistent": false
+  },
+  "omnibox": {
+    "keyword": "r"
+  },
+  "manifest_version": 2,
+  "browser_action": {
+    "default_icon": {
+      "128": "rocket-128.png"
+    }
+  },
+  "icons": {
+    "128": "rocket-128.png"
+  }
+}
