@@ -1,6 +1,7 @@
 const aliasMapping = {
   'ga': 'https://github.com/itaditya',
   'gp': 'https://github.com/probot',
+  'gi': 'https://github.com/interviewstreet',
   'sp': 'https://probot-talk.slack.com',
   'ta': 'https://twitter.com/dev__adi',
 }
